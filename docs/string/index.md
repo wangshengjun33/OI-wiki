@@ -17,3 +17,7 @@
 也可以用 `vector` 如  `vector<char> v`
 
 同时 STL 中也提供了字符串容器 `std :: string` 
+## 头文件
+用`cstring` or  `string.h`
+## 字符串格式
+` string a[100]; string ch;`
